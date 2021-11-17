@@ -40,3 +40,10 @@ button, input, textarea, select {
     -webkit-appearance: none !important;
     border-radius: 0
 }
+
+#root {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
